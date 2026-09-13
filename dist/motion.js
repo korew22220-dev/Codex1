@@ -60,5 +60,5 @@
   } else visible = true;
   window.setInterval(() => {
     if (visible && !hovered && !focused && !document.hidden && !prefersReducedMotion.matches) show(index + 1);
-  }, 5500);
+  }, 8500);
 })();
