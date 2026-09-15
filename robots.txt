@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://korew22220-dev.github.io/Codex1/sitemap.xml
+Sitemap: https://mersedes-amg-sochi.ru/sitemap.xml
